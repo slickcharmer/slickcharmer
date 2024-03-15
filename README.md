@@ -4,7 +4,7 @@
 <img src="assets/website.gif" alt="web developer">
 
 
-<p align="justify"> Hey, welcome. I see you've found my <b><a href="https://github.com/jcy2704">GitHub Profile</a></b>. I am currently a <b>Full Stack Developer with 5 years expereince </b> at <strong><a href="https://microverse.org">TechTIQ Solutions</a></strong>. I am <b>passionate</b> about managing team and coding, not just web development, but also want to learn about machine learning, AI, and more. Currently working on <b>MERN</b> projects, but I will master other languages to become a <b>Ph.D of IT.</b></p>
+<p align="justify"> Hey, welcome. I see you've found my <b><a href="https://github.com/jcy2704">GitHub Profile</a></b>. I am currently a <b>Full Stack Engineer with 7 years expereince </b> at <strong><a href="https://microverse.org">Pavilion</a></strong>. I am <b>passionate</b> about managing team and coding, not just web development, but also want to learn about machine learning, AI, and more. Currently working on <b>MERN</b> projects, but I will master other languages to become a <b>Ph.D of IT.</b></p>
 <br>
 
 
@@ -201,18 +201,18 @@
   <br>
   <details>
   <summary>📊 Github Stats</summary><br>
-  <img alt="Dinush Chathurya Github Stats" src="https://github-readme-stats.vercel.app/api?username=bluedone&count_private=true&show_icons=true&theme=Merko" style="height:214px;"/>
+  <img alt="Dinush Chathurya Github Stats" src="https://github-readme-stats.vercel.app/api?username=slickcharmer&count_private=true&show_icons=true&theme=Merko" style="height:214px;"/>
 </details>
 
 <details>
   <summary>&#11088 Language Stats</summary><br>
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluedone&theme=Merko&langs_count=15&layout=compact" />
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slickcharmer&theme=Merko&langs_count=15&layout=compact" />
 </details>
 
 <details>
   <summary>🔥 Streak stats</summary><br>
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bluedone&theme=Merko&hide_border=true)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=slickcharmer&theme=Merko&hide_border=true)](https://git.io/streak-stats)
 </details>
 </details>
 
