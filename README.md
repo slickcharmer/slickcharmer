@@ -1,5 +1,4 @@
 ## Hi there, I am Kanan
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=DevOps,+Full-Stack+Engineer;+AWS+Community+Builder;Open-Source+Enthusiast;Artisan+Lover;Social+Media+Influencer;Blogger;)](https://git.io/typing-svg)
 
 <img src="assets/website.gif" alt="web developer">
 
