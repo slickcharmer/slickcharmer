@@ -8,12 +8,13 @@
   <summary><strong>Some things I am trying to be better at 🔧</strong></summary>
   <br>
 
-  - Mastering Blockchain Techn
+  - Mastering Full Stack Technologies
+  - Familiar with Blockchain and AI
+  - Innovative thinking and Passion to learn new technologies
+  - Collaboration
   - Work than 40-50 hours per week
   - Have ability to stick to any timezone
-  - Communication Skill & 
-  - Sleep early 💤
-  - Wake up early ☀️
+  - Communication Skill
 </details>
 
 <hr>
