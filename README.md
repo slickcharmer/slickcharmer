@@ -1,4 +1,4 @@
-## Hi there, I am Kanan
+## Hi there,
 
 <p align="justify"> Hey, welcome. I see you've found my <b><a href="https://github.com/jcy2704">GitHub Profile</a></b>. I am currently a <b>Full Stack Engineer with 7 years expereince </b> at <strong><a href="https://microverse.org">Pavilion</a></strong>. I am <b>passionate</b> about managing team and coding, not just web development, but also want to learn about machine learning, AI, and more. Currently working on <b>MERN</b> projects, but I will master other languages to become a <b>Ph.D of IT.</b></p>
 <br>
